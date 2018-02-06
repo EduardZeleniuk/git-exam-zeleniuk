@@ -1,5 +1,12 @@
 ﻿This file shows the changes in the system versions.
 
+## [1.0.0] - 2018-02-06
+### Release
+
+## [0.1.0] - 2018-02-06
+### Added
+- test.php
+
 ## [0.0.2] - 2018-02-06
 ### Fixed
 - Added phpinfo() in index.php
